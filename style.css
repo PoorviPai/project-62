@@ -1,0 +1,41 @@
+body {
+    background: linear-gradient(#dcfa34 0%, #eb770c 100%);
+    
+}
+
+.container {
+    text-align: center;
+}
+
+#myCarousel {
+    background: linear-gradient(#eb770c 0%, #dcfa34 100%);
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 30px;
+    font-family: 'Great Vibes', cursive;
+    }
+
+#myCarouse2 {
+    background-color: #b5d0d4;
+}
+
+#myCarouse2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.line {
+    background-color: black;
+    height: 10px;
+    width: 1140px;
+    margin: 8px auto;
+ }
